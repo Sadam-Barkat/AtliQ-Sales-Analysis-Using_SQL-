@@ -27,5 +27,3 @@ This repository includes:
 - **SQL Scripts**: Queries and scripts practiced throughout the learning process.
 - **Projects**: Real-world projects demonstrating SQL in action.
 - **Video Presentation**: [Click here to watch the video presentation](https://www.youtube.com/watch?v=uUeUPYtCZrc) explaining the key insights and findings from the projects.
-
-> *(Replace "#" with the actual video link)*
