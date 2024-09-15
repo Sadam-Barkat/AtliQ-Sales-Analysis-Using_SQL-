@@ -4,7 +4,7 @@
 
 This repository showcases my learning journey and hands-on projects in SQL, covering essential and advanced concepts in database querying and management. It includes various SQL techniques, practical exercises, and real-world applications. 
 
-You can also check out the **[Video Presentation](#)**for a detailed explanation of the project insights.
+You can also check out the **[Video Presentation]([#](https://www.youtube.com/watch?v=uUeUPYtCZrc))** for a detailed explanation of the project insights.
 
 ## Key Highlights
 
@@ -29,5 +29,3 @@ This repository includes:
 - **Video Presentation**: [Click here to watch the video presentation](#) explaining the key insights and findings from the projects.
 
 > *(Replace "#" with the actual video link)*
-
-
